@@ -20,7 +20,7 @@ const routes: Routes = [
 ];
 
 /**
- * Root module.
+ * Root module..
  */
 @NgModule({
   declarations: [AppComponent],
